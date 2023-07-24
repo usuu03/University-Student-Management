@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PG
+comment0.text=\r\n\ The\ PG\ class\ represents\ postgraduate\ student\ in\ a\ university.\r\n\ It\ holds\ relevant\ details\ of\ a\ postgraduate\ student.\r\n\r\n
+comment1.params=id\ name\ age\ supervisor
+comment1.target=PG(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSupervisor()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

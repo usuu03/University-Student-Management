@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ The\ Course\ class\ represents\ a\ university\ course.\r\n\ It\ holds\ relevant\ details\ of\ a\ course.\r\n\r\n
+comment1.params=title\ convener
+comment1.target=Course(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=student
+comment3.target=void\ enrol(UG)
+comment4.params=
+comment4.target=java.util.ArrayList\ getStudents()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7
